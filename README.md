@@ -17,7 +17,8 @@
   G. Bianconi, arXiv preprint, arXiv:1703.05528 (2017) 
  
   (c) G. Bianconi (email: ginestra.bianconi@gmail.com ) 
- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
  
  Using the notation of the paper our code used node-independent probabilities p^{(1)}=p^{(2)}=p 
  that a node is not initially damaged in each of the two realization of the percolation problem
